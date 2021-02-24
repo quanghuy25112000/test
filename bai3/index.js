@@ -1,6 +1,0 @@
-import './component/input.js'
-import './screen/login.js'
-import './screen/register.js'
-import './component/item.js'
-import './screen/post.js'
-import './navigo.js'
